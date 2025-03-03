@@ -1,1 +1,4 @@
 http://backend.course#VO-I
+
+
+http://backend.course/?name=%22%D0%86%D0%B3%D0%BE%D1%80%20%D0%92%D0%BE%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%22&github_name=VO-I&group=%22%D0%A4%D0%B5%D0%9F-21%22&subgroup=%22%D0%BF%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
