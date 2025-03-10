@@ -1,0 +1,3 @@
+http://backend.course#Vo-I
+http://backend.course?name=%25Voichenko%20Igor%2522&github_name=Vo-I&group=%25FeP-21%2522&subgroup=%25Pidgrupa-1%25
+https://bank.gov.ua/NBUStatService/v1/statdirectory/inflation?date=202302&period=m&json
